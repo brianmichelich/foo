@@ -1,3 +1,3 @@
-def print(it):
-  print(it)
+def printit(it):
+  print('it %s' % it)
 
